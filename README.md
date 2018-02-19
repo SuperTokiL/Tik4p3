@@ -1,2 +1,6 @@
 # Tik4p3
-ruokahommeli
+#hello-world
+
+Terve!
+
+Tik4p3-ryhmän ryhmätyöprojekti tulee tänne
